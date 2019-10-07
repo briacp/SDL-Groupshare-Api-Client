@@ -1,0 +1,5 @@
+#Groupshare TM Client
+#Sun Oct 06 22:43:54 CEST 2019
+groupshare.login=your_login
+groupshare.server=http\://sdl.your-lsp.example.com/
+groupshare.password=your_password
