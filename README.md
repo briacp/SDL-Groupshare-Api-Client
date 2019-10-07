@@ -9,7 +9,7 @@ Included is an application to fetch all the translation memories (TM) related to
 if you are using [CAT tools](https://omegat.org) other than Trados and can't access directly the provided customer 
 TM.
 
-![screenshot](https://raw.githubusercontent.com/briacp/SDLApiClient/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/briacp/SDLAPIClient/master/screenshot.png)
 
 ## License
 
